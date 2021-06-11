@@ -1,0 +1,31 @@
+.result-list {
+  align-content:   center;
+  display:         flex;
+  flex-wrap:       wrap;
+  justify-content: center;
+  background:      darkslategrey;
+}
+
+.result {
+  border:           15px solid black;
+  border-width:     0 4px 8px 12px;
+  display:          flex;
+  background-color: bisque;
+  display:          flex;
+  margin:           2rem;
+  min-height:       30vh;
+  padding:          2rem;
+  flex-direction:   column;
+  width:            12em;
+}
+
+.result-name {
+
+}
+
+.result-addr {
+}
+
+.result-kt {
+
+}
